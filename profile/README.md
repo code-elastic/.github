@@ -30,8 +30,12 @@ Here are some ideas to get you started:
 </p>
 
 
+- 欢迎来访 code-elastic 团队!
+- 这里是我发布公共仓库包、记录沉淀之处，未来将有更多美好
+- 
 - 我是 Elastic Code
 - 一枚全栈攻城狮。主战服务端技术栈、系统架构、DevOps
 - 爱折腾有趣的项目、工具
 - 目前处于技能成长、知识沉淀中...
-- email: hzreal0823@outlook.com
+- 个人 Github:  <a src="https://github.com/HZreal">https://github.com/HZreal</a>
+- 联系我: hzreal0823@outlook.com
